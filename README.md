@@ -58,6 +58,7 @@ Exemplo de Saída
 Os 5 times com maior aproveitamento são listados no terminal
 
 Um gráfico como o abaixo é gerado e salvo:
+![Gráfico](output/serie_b_aproveitamento_2025.png)
 
 
 
