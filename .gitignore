@@ -1,0 +1,2 @@
+.venv/
+pycache/ *.py[cod] *.pyo .ipynb_checkpoints/ .log .tmp .bak .DS_Store Thumbs.db output/.csv output/.png output/.json
