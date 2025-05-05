@@ -1,0 +1,21 @@
+﻿posicao;pontos;time;jogos;vitorias;empates;derrotas;gols_pro;gols_contra;saldo_gols;aproveitamento;variacao_posicao;ultimos_jogos;nome
+2;11;{'time_id': 6, 'nome_popular': 'Avaí', 'sigla': 'AVA', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc826666e9.svg'};5;3;2;0;9;3;6;73;-1;['e', 'e', 'v', 'v', 'v'];Avaí
+3;11;{'time_id': 204, 'nome_popular': 'Cuiabá', 'sigla': 'CUI', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc73e0e8ea.svg'};5;3;2;0;7;4;3;73;-1;['v', 'e', 'v', 'e', 'v'];Cuiabá
+1;12;{'time_id': 81, 'nome_popular': 'Remo', 'sigla': 'REM', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc7625e677.svg'};6;3;3;0;8;4;4;66;8;['v', 'e', 'v', 'e', 'v'];Remo
+4;10;{'time_id': 110, 'nome_popular': 'Vila Nova', 'sigla': 'VIL', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc82f6d78e.svg'};5;3;1;1;6;3;3;66;-1;['d', 'v', 'e', 'v', 'v'];Vila Nova
+5;10;{'time_id': 115, 'nome_popular': 'Goiás', 'sigla': 'GOI', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc7ca9dd9a.svg'};5;3;1;1;6;4;2;66;0;['v', 'v', 'e', 'd', 'v'];Goiás
+7;10;{'time_id': 90, 'nome_popular': 'CRB', 'sigla': 'CRB', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc7a2a611f.svg'};5;3;1;1;5;4;1;66;-1;['v', 'v', 'v', 'd', 'e'];CRB
+10;9;{'time_id': 33, 'nome_popular': 'América-MG', 'sigla': 'AMG', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc77375461.svg'};5;3;0;2;5;6;-1;60;-2;['v', 'd', 'v', 'v', 'd'];América-MG
+6;10;{'time_id': 84, 'nome_popular': 'Coritiba', 'sigla': 'CFC', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc7a85d84c.svg'};6;3;1;2;6;4;2;55;-2;['v', 'e', 'd', 'v', 'd'];Coritiba
+8;9;{'time_id': 5, 'nome_popular': 'Chapecoense', 'sigla': 'CHA', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc8287cf47.svg'};6;3;0;3;6;5;1;50;3;['d', 'v', 'v', 'd', 'v'];Chapecoense
+9;9;{'time_id': 185, 'nome_popular': 'Athletico-PR', 'sigla': 'CAP', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc73c0814b.svg'};6;3;0;3;9;10;-1;50;-2;['v', 'd', 'v', 'd', 'd'];Athletico-PR
+11;9;{'time_id': 59, 'nome_popular': 'Ferroviária', 'sigla': 'FER', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc8c2b2bf5.svg'};6;2;3;1;5;3;2;50;1;['e', 'v', 'e', 'd', 'v'];Ferroviária
+12;9;{'time_id': 98, 'nome_popular': 'Atlético-GO', 'sigla': 'ACG', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc74172c94.svg'};6;2;3;1;8;7;1;50;1;['e', 'd', 'e', 'e', 'v'];Atlético-GO
+13;9;{'time_id': 51, 'nome_popular': 'Novorizontino', 'sigla': 'NOV', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc8247dcb1.svg'};6;2;3;1;5;4;1;50;-3;['v', 'e', 'e', 'v', 'd'];Novorizontino
+14;5;{'time_id': 1, 'nome_popular': 'Criciúma', 'sigla': 'CRI', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc74f3bca6.svg'};6;1;2;3;9;8;1;27;0;['d', 'v', 'e', 'e', 'd'];Criciúma
+15;5;{'time_id': 66, 'nome_popular': 'Botafogo-SP', 'sigla': 'BOT', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc7b916a14.svg'};6;1;2;3;7;8;-1;27;2;['e', 'e', 'd', 'd', 'v'];Botafogo-SP
+16;4;{'time_id': 117, 'nome_popular': 'Operário-PR', 'sigla': 'OPE', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc77f360cd.svg'};5;1;1;3;3;6;-3;26;-1;['v', 'd', 'd', 'e', 'd'];Operário-PR
+17;4;{'time_id': 21, 'nome_popular': 'Volta Redonda', 'sigla': 'VRE', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc7a4add00.svg'};6;1;1;4;2;5;-3;22;3;['d', 'd', 'e', 'd', 'v'];Volta Redonda
+18;3;{'time_id': 214, 'nome_popular': 'Athletic Club', 'sigla': 'ATH', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc7a685fe2.svg'};5;1;0;4;5;12;-7;20;-2;['d', 'd', 'd', 'd', 'v'];Athletic Club
+19;2;{'time_id': 88, 'nome_popular': 'Paysandu', 'sigla': 'PAY', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc7c4307e8.svg'};6;0;2;4;2;7;-5;11;-1;['d', 'd', 'e', 'e', 'd'];Paysandu
+20;2;{'time_id': 445, 'nome_popular': 'Amazonas', 'sigla': 'AMA', 'escudo': 'https://cdn.api-futebol.com.br/times/escudos/677fc777672f7.svg'};6;0;2;4;2;8;-6;11;-1;['e', 'd', 'd', 'e', 'd'];Amazonas
