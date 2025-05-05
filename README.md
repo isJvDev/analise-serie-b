@@ -1,8 +1,8 @@
-#Análise do Campeonato Brasileiro Série B - 2025
+# Análise do Campeonato Brasileiro Série B - 2025
 
-Este projeto realiza uma análise automatizada da tabela do Campeonato Brasileiro Série B utilizando a API API-Futebol. O objetivo é demonstrar habilidades em coleta de dados, tratamento, análise e visualização com Python.
+<h1>Este projeto realiza uma análise automatizada da tabela do Campeonato Brasileiro Série B utilizando a API API-Futebol. O objetivo é demonstrar habilidades em coleta de dados, tratamento, análise e visualização com Python.</h1>
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 Python 3.10+
 
@@ -14,7 +14,7 @@ requests
 
 API REST (API-Futebol)
 
-#Funcionalidades
+# Funcionalidades
 
 Autenticação via token de acesso
 
@@ -32,7 +32,7 @@ Geração de gráfico de barras e salva como imagem
 
 Exportação dos dados para CSV
 
-#Estrutura do Projeto
+# Estrutura do Projeto
 
 .
 ├── campeonatos.json                   # Lista de campeonatos
@@ -42,7 +42,7 @@ Exportação dos dados para CSV
 │   └── serie_b_aproveitamento_2025.png # Gráfico gerado
 ├── analise_serie_b.py                # Script principal
 
-#Como Executar
+# Como Executar
 
 Clone este repositório:
 
@@ -59,7 +59,7 @@ headers = {
     "Authorization": "Bearer SEU_TOKEN_AQUI"
 }
 
-#Execute o script:
+# Execute o script:
 
 python analise_serie_b.py
 
@@ -71,7 +71,7 @@ Um gráfico como o abaixo é gerado e salvo:
 
 
 
-#Licença
+# Licença
 
 Este projeto é de uso livre para fins educacionais.
 
